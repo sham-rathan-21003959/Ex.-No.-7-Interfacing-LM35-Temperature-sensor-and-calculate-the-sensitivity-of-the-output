@@ -234,8 +234,7 @@ Calculation of sensitivity
 
 
 SL NO	Temperature value in °C (T)	ADC VALUE (A)	Sensitivity 
-
-		![WhatsApp Image 2022-11-05 at 2 01 02 PM](https://user-images.githubusercontent.com/93587823/200111015-77549712-46de-4d91-8453-ff09b8606a58.jpeg)
+![WhatsApp Image 2022-11-05 at 2 01 02 PM](https://user-images.githubusercontent.com/93587823/200111015-77549712-46de-4d91-8453-ff09b8606a58.jpeg)
 
 
 
